@@ -1,4 +1,4 @@
-# Single-Cycle RISC-V Core in Chisel
+### Single-Cycle RISC-V Core in Chisel
 This project implements a **single-cycle RISC-V (RV32I) processor core** using **Chisel**, a modern hardware construction language embedded in Scala.  
 The design follows a modular and readable structure, making it suitable for learning computer architecture as well as experimenting with RISC-V cores.
 
@@ -96,6 +96,6 @@ If you see the above then...
 
 You are ready to go. Next step is to go inside the `docs/` folder where you will find the labs to perform.
 
-### For quick debugging
+## For quick debugging
 If you quickly want to see what verilog is being generated, go to this link  https://bit.ly/3u3zr0e and write Chisel here.
-=======
+
